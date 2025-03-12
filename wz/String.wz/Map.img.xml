@@ -153,6 +153,14 @@
       <string name="streetName" value="Maple Road"/>
       <string name="mapName" value="Southperry Armor Store"/>
     </imgdir>
+    <imgdir name="70000">
+      <string name="streetName" value="Maple Road"/>
+      <string name="mapName" value="A Split Road"/>
+    </imgdir>
+    <imgdir name="1001000">
+      <string name="streetName" value="Maple Road"/>
+      <string name="mapName" value="The Field West of Amherst"/>
+    </imgdir>
   </imgdir>
   <imgdir name="victoria">
     <imgdir name="100000000">
