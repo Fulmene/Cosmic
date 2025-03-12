@@ -509,7 +509,7 @@
   <imgdir name="1008">
     <string name="name" value="Pio&apos;s Collecting Recycled Goods"/>
     <string name="0" value="When I see Pio, he asks me to help collecting recycled goods."/>
-    <string name="1" value="I ran into Pio who is famous in Amherst for fixing broken goods. Pio tells me to break down scrap boxes from here and there in the village and bring back a #t4031161# and an #t4031162#. I think I saw some scrap boxes in the village...\n\n#t4031162# #c4031162# / #r1#k\n#t4031161# #c4031161# / #r1#k"/>
+    <string name="1" value="I ran into Pio who is famous in Amherst for fixing broken goods. Pio tells me to break down scrap boxes from here and there in the village and bring back five #t4031161# and five #t4031162#. I think I saw some scrap boxes in the village...\n\n#t4031162# #c4031162# / #r5#k\n#t4031161# #c4031161# / #r5#k"/>
     <string name="2" value="As Pio asked me, I broke down some useless boxes that were lying here and there in the village, and returned it to him. It was fun collecting them because I could find some useful stuff in them as well."/>
     <int name="area" value="20"/>
   </imgdir>

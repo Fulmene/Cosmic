@@ -1664,11 +1664,11 @@
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="4031162"/>
-          <int name="count" value="1"/>
+          <int name="count" value="5"/>
         </imgdir>
         <imgdir name="1">
           <int name="id" value="4031161"/>
-          <int name="count" value="1"/>
+          <int name="count" value="5"/>
         </imgdir>
       </imgdir>
     </imgdir>

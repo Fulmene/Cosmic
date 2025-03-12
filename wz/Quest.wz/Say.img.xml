@@ -60473,7 +60473,7 @@
       <string name="0" value="My goodness. So many useful items are being thrown away ... I&apos;ve been wandering around this town, and I see so many items that are thrown away that can be recycled! Hey, say ... can you help me collect those?\n Well, don&apos;t worry, I&apos;ll reward you well for your effort."/>
       <imgdir name="yes">
         <string name="0" value="That&apos;s right!! Please get me all the supposedly useless items that are abandoned all over town. I&apos;ll reward you well for your effort. Hahahah!!!"/>
-        <string name="1" value="Well ... I don&apos;t know if you&apos;ve seen the wooden boxes that have been left abandoned on your way here. Did you see them? Your job is to break those boxes and then bring them back as recyclable materials. When you break those boxes, you&apos;ll get an #t4031162# and a #t4031161# in return. Just collect one of each of those for me, okay? \n\n#i4031161# #b1#k #t4031161#\n#i4031162# #b1#k #t4031162#"/>
+        <string name="1" value="Well ... I don&apos;t know if you&apos;ve seen the wooden boxes that have been left abandoned on your way here. Did you see them? Your job is to break those boxes and then bring them back as recyclable materials. When you break those boxes, you&apos;ll get an #t4031162# and a #t4031161# in return. Just collect five of each of those for me, okay? \n\n#i4031161# #b5#k #t4031161#\n#i4031162# #b5#k #t4031162#"/>
       </imgdir>
       <imgdir name="no">
         <string name="0" value="Come on ... try it!! It&apos;s not hard at all! Just strike this box next to me and you&apos;ll know what I&apos;m talking about."/>

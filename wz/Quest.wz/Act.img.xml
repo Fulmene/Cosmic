@@ -925,16 +925,16 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="100"/>
+      <int name="exp" value="50"/>
       <int name="money" value="200"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="4031162"/>
-          <int name="count" value="-1"/>
+          <int name="count" value="-5"/>
         </imgdir>
         <imgdir name="1">
           <int name="id" value="4031161"/>
-          <int name="count" value="-1"/>
+          <int name="count" value="-5"/>
         </imgdir>
       </imgdir>
     </imgdir>
@@ -2946,7 +2946,7 @@
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="7"/>
+      <int name="exp" value="5"/>
       <int name="nextQuest" value="1033"/>
     </imgdir>
   </imgdir>
@@ -3028,7 +3028,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="7"/>
+      <int name="exp" value="5"/>
       <int name="nextQuest" value="1034"/>
     </imgdir>
   </imgdir>
@@ -3068,7 +3068,7 @@
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="20"/>
+      <int name="exp" value="15"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="4031792"/>
@@ -3155,7 +3155,7 @@
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="30"/>
+      <int name="exp" value="20"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="1002053"/>
@@ -3240,7 +3240,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="40"/>
+      <int name="exp" value="30"/>
     </imgdir>
   </imgdir>
   <imgdir name="10360">
@@ -3274,7 +3274,7 @@
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="60"/>
+      <int name="exp" value="40"/>
       <int name="nextQuest" value="1038"/>
     </imgdir>
   </imgdir>
@@ -3466,7 +3466,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="500"/>
+      <int name="exp" value="100"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="4031801"/>
@@ -3620,7 +3620,7 @@
   </imgdir>
   <imgdir name="1041">
     <imgdir name="1">
-      <int name="exp" value="150"/>
+      <int name="exp" value="50"/>
       <int name="nextQuest" value="1042"/>
       <imgdir name="item">
         <imgdir name="0">
@@ -3856,7 +3856,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="175"/>
+      <int name="exp" value="75"/>
       <int name="nextQuest" value="1043"/>
       <imgdir name="item">
         <imgdir name="0">
@@ -3961,7 +3961,7 @@
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="200"/>
+      <int name="exp" value="100"/>
       <int name="nextQuest" value="1044"/>
       <imgdir name="item">
         <imgdir name="0">
@@ -4216,7 +4216,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="250"/>
+      <int name="exp" value="150"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="2010001"/>
@@ -4408,7 +4408,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="700"/>
+      <int name="exp" value="100"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="4000001"/>
@@ -4493,7 +4493,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="500"/>
+      <int name="exp" value="100"/>
       <imgdir name="item">
         <imgdir name="0">
           <int name="id" value="2000014"/>
@@ -56049,7 +56049,7 @@
     <imgdir name="0">
     </imgdir>
     <imgdir name="1">
-      <int name="exp" value="100"/>
+      <int name="exp" value="50"/>
     </imgdir>
   </imgdir>
 </imgdir>
