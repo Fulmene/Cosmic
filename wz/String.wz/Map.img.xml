@@ -165,6 +165,10 @@
       <string name="streetName" value="Rainbow Street"/>
       <string name="mapName" value="The Field East of Amherst"/>
     </imgdir>
+    <imgdir name="1001002">
+      <string name="streetName" value="Rainbow Street"/>
+      <string name="mapName" value="Mushroom Garden"/>
+    </imgdir>
   </imgdir>
   <imgdir name="victoria">
     <imgdir name="100000000">
