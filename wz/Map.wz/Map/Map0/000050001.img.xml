@@ -4148,7 +4148,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="228"/>
       <int name="y" value="361"/>
-      <int name="tm" value="50000"/>
+      <int name="tm" value="70000"/>
       <string name="tn" value="east01"/>
       <string name="script" value=""/>
       <int name="hideTooltip" value="0"/>
