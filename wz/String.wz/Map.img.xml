@@ -11,7 +11,7 @@
     </imgdir>
     <imgdir name="10000">
       <string name="streetName" value="Maple Road"/>
-      <string name="mapName" value="Mushroom Town"/>
+      <string name="mapName" value="West Entrance to Mushroom Town"/>
       <string name="mapDesc" value="The town for beginners. Playing the game through simple quests\r\nYou&apos;ll learn how to move around here."/>
     </imgdir>
     <imgdir name="1000000">
@@ -78,7 +78,7 @@
     </imgdir>
     <imgdir name="20000">
       <string name="streetName" value="Maple Road"/>
-      <string name="mapName" value="Snail Garden"/>
+      <string name="mapName" value="Mushroom Town"/>
       <string name="mapDesc" value="A town specifically for beginners. Simple quests teach the basic controls of the game."/>
     </imgdir>
     <imgdir name="20001">
@@ -91,11 +91,11 @@
     </imgdir>
     <imgdir name="30000">
       <string name="streetName" value="Maple Road"/>
-      <string name="mapName" value="Snail Field of Flowers"/>
+      <string name="mapName" value="Mushroom Town"/>
     </imgdir>
     <imgdir name="40000">
       <string name="streetName" value="Maple Road"/>
-      <string name="mapName" value="In a Small Forest"/>
+      <string name="mapName" value="East Entrance to Mushroom Town"/>
     </imgdir>
     <imgdir name="40001">
       <string name="streetName" value="Maple Road"/>
