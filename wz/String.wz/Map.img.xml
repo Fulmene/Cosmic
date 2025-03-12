@@ -158,8 +158,12 @@
       <string name="mapName" value="A Split Road"/>
     </imgdir>
     <imgdir name="1001000">
-      <string name="streetName" value="Maple Road"/>
+      <string name="streetName" value="Rainbow Street"/>
       <string name="mapName" value="The Field West of Amherst"/>
+    </imgdir>
+    <imgdir name="1001001">
+      <string name="streetName" value="Rainbow Street"/>
+      <string name="mapName" value="The Field East of Amherst"/>
     </imgdir>
   </imgdir>
   <imgdir name="victoria">
