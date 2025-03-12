@@ -169,6 +169,14 @@
       <string name="streetName" value="Rainbow Street"/>
       <string name="mapName" value="Mushroom Garden"/>
     </imgdir>
+    <imgdir name="1001003">
+      <string name="streetName" value="Maple Road"/>
+      <string name="mapName" value="In a Small Forest"/>
+    </imgdir>
+    <imgdir name="1001004">
+      <string name="streetName" value="Maple Road"/>
+      <string name="mapName" value="Dangerous Forest"/>
+    </imgdir>
   </imgdir>
   <imgdir name="victoria">
     <imgdir name="100000000">

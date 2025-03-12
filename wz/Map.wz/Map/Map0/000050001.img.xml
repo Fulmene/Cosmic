@@ -4170,7 +4170,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="1275"/>
       <int name="y" value="-181"/>
-      <int name="tm" value="1000001"/>
+      <int name="tm" value="1001003"/>
       <string name="tn" value="out00"/>
     </imgdir>
     <imgdir name="4">
@@ -4178,7 +4178,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="1750"/>
       <int name="y" value="-181"/>
-      <int name="tm" value="1000002"/>
+      <int name="tm" value="1001004"/>
       <string name="tn" value="out00"/>
     </imgdir>
     <imgdir name="5">
