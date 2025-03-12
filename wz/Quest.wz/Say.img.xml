@@ -4503,21 +4503,21 @@
     <imgdir name="0">
       <string name="0" value="Oh wow! You really brought me Squishy Liquid from the Slime. You&apos;re doing much better than I expected. I think... you&apos;re now ready to take on a really challenging monster."/>
       <imgdir name="yes">
-        <string name="0" value="So, reports of late shows up a growth on masses of Orange Mushrooms around the #bTraining Center#k. Your job, as an aspiring Explorer, is to help us cutting out #r2 Orange Mushrooms#k from there. They are pretty tough and powerful, but don&apos;t take so much fear from this fact! If you trust in your abilities and focus on the combat, you should be able to handle those two handily."/>
+        <string name="0" value="This time, you'll need to take on #r2 Pigs#k. They are very fast and powerful, but thankfully they aren't the Ribbon Pigs you'll find at Victoria Island. They are just regular Pigs, so if you focus on the combat, you should be able to handle those two."/>
       </imgdir>
       <imgdir name="no">
         <string name="0" value="Hmmm... did I really scare you? Don&apos;t worry. If you are persistent, you&apos;ll be able to handle those two. I won&apos;t make you hunt monsters that you can&apos;t handle, you know."/>
       </imgdir>
     </imgdir>
     <imgdir name="1">
-      <string name="0" value="So you did defeat 2 Orange Mushrooms. That&apos;s incredible! Seriously, you&apos;re doing much better than I ever thought possible! You may be just a beginner, but I have a feeling that you&apos;ll one day become a legendary hero in Maple World."/>
+      <string name="0" value="So you did defeat 2 Pigs. That's incredible! Seriously, you're doing much better than I ever thought possible! You may be just a beginner, but I have a feeling that you'll one day become a legendary hero in Maple World."/>
       <imgdir name="yes">
         <string name="0" value="The training is now complete. You may still have some weaknesses here and there, but you&apos;ll be able to overcome that in no time. Keep training!"/>
         <string name="1" value="Oh, and I have one last #btest#k for you. Think of it as a final exam. If you aren&apos;t satisfied with your current skill level and want to push further, then meet #bBari#k, who will have a test in store for you."/>
       </imgdir>
       <imgdir name="stop">
         <imgdir name="mob">
-          <string name="0" value="I don&apos;t think you&apos;ve slayed #r2 Orange Mushrooms#k yet. Please take care of both, then let me know of the results."/>
+          <string name="0" value="I don't think you've slayed #r2 Pigs#k yet. Please take care of both, then let me know of the results."/>
         </imgdir>
       </imgdir>
     </imgdir>
