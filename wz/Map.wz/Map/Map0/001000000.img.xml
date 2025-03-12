@@ -3670,7 +3670,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="2197"/>
       <int name="y" value="270"/>
-      <int name="tm" value="1010000"/>
+      <int name="tm" value="1001001"/>
       <string name="tn" value="west00"/>
       <string name="script" value=""/>
       <int name="hideTooltip" value="0"/>
