@@ -6,7 +6,7 @@
     <int name="town" value="0"/>
     <float name="mobRate" value="1.0"/>
     <string name="bgm" value="Bgm00/RestNPeace"/>
-    <int name="returnMap" value="60000"/>
+    <int name="returnMap" value="1000000"/>
     <string name="mapDesc" value=""/>
     <int name="forcedReturn" value="999999999"/>
     <int name="hideMinimap" value="0"/>
@@ -4519,7 +4519,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="1874"/>
       <int name="y" value="-450"/>
-      <int name="tm" value="50000"/>
+      <int name="tm" value="1000000"/>
       <string name="tn" value="west00"/>
     </imgdir>
     <imgdir name="4">

@@ -4620,7 +4620,7 @@
       <int name="pt" value="2"/>
       <int name="x" value="-163"/>
       <int name="y" value="391"/>
-      <int name="tm" value="40000"/>
+      <int name="tm" value="50000"/>
       <string name="tn" value="east00"/>
     </imgdir>
     <imgdir name="6">

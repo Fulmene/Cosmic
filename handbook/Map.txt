@@ -25,7 +25,7 @@ maple
 40000 - Maple Road - In a Small Forest
 40001 - Maple Road - Snail Hunting Ground II
 40002 - Maple Road - Snail Hunting Ground III
-50000 - Maple Road - Dangerous Forest
+50000 - Maple Road - Snail Hunting Ground I (Formerly Dangerous Forest)
 50001 - Maple Road - The Field West of Southperry
 60000 - Maple Road - Southperry
 60001 - Maple Road - Southperry Armor Store
@@ -36,6 +36,7 @@ maple
 1010400 - Maple Road - Adventurer Training Center 4
 2000000 - Maple Road - Southperry
 2000001 - Maple Road - Southperry Armor Store
+70000 - Maple Road - A Split Road
 
 victoria
 
