@@ -2,7 +2,7 @@ maple
 
 0 - Maple Road - Entrance - Mushroom Town Training Camp
 1 - Maple Road - Upper level of the Training Camp
-10000 - Maple Road - Mushroom Town
+10000 - Maple Road - West Entrance to Mushroom Town (Formerly Mushroom Town)
 1000000 - Rainbow Street - Amherst
 1000001 - Rainbow Street - Amherst Weapon Store
 1000002 - Rainbow Street - Amherst Townstreet
@@ -18,11 +18,11 @@ maple
 1020000 - Maple Road - Split Road of Destiny
 1020001 - Rainbow Street - Tomato Field
 2 - Maple Road - Lower level of the Training Camp
-20000 - Maple Road - Snail Garden
+20000 - Maple Road - Mushroom Town (Formerly Snail Garden)
 20001 - Maple Road - Mushroom Town Townstreet
 3 - Maple Road - Entrance - Mushroom Town Training Camp
-30000 - Maple Road - Snail Field of Flowers
-40000 - Maple Road - In a Small Forest
+30000 - Maple Road - Mushroom Town (Formerly Snail Field of Flowers)
+40000 - Maple Road - East Entrance to Mushroom Town (Formerly In a Small Forest)
 40001 - Maple Road - Snail Hunting Ground II
 40002 - Maple Road - Snail Hunting Ground III
 50000 - Maple Road - Snail Hunting Ground I (Formerly Dangerous Forest)
@@ -38,7 +38,11 @@ maple
 2000001 - Maple Road - Southperry Armor Store
 
 70000 - Maple Road - A Split Road
-1001000 - The Field West of Amherst
+1001000 - Rainbow Street - The Field West of Amherst
+1001001 - Rainbow Street - The Field East of Amherst
+1001002 - Rainbow Street - Mushroom Garden
+1001003 - Maple Road - In a Small Forest
+1001004 - Maple Road - Dangerous Forest
 
 victoria
 
