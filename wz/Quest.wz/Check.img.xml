@@ -26167,8 +26167,7 @@
   <imgdir name="2400">
     <imgdir name="0">
       <int name="npc" value="1022000"/>
-      <int name="lvmin" value="10"/>
-      <int name="lvmax" value="19"/>
+      <int name="lvmin" value="999"/>
       <imgdir name="job">
         <int name="0" value="100"/>
         <int name="1" value="110"/>
@@ -26189,8 +26188,7 @@
   <imgdir name="2401">
     <imgdir name="0">
       <int name="npc" value="1032001"/>
-      <int name="lvmin" value="8"/>
-      <int name="lvmax" value="19"/>
+      <int name="lvmin" value="999"/>
       <imgdir name="job">
         <int name="0" value="200"/>
         <int name="1" value="210"/>
@@ -26211,8 +26209,7 @@
   <imgdir name="2402">
     <imgdir name="0">
       <int name="npc" value="1052001"/>
-      <int name="lvmin" value="10"/>
-      <int name="lvmax" value="19"/>
+      <int name="lvmin" value="999"/>
       <imgdir name="job">
         <int name="0" value="400"/>
         <int name="1" value="410"/>
@@ -26230,8 +26227,7 @@
   <imgdir name="2403">
     <imgdir name="0">
       <int name="npc" value="1012100"/>
-      <int name="lvmin" value="10"/>
-      <int name="lvmax" value="19"/>
+      <int name="lvmin" value="999"/>
       <imgdir name="job">
         <int name="0" value="300"/>
         <int name="1" value="310"/>
@@ -26249,8 +26245,7 @@
   <imgdir name="2404">
     <imgdir name="0">
       <int name="npc" value="1090000"/>
-      <int name="lvmin" value="10"/>
-      <int name="lvmax" value="19"/>
+      <int name="lvmin" value="999"/>
       <imgdir name="job">
         <int name="0" value="500"/>
         <int name="1" value="510"/>
