@@ -10542,7 +10542,7 @@
     </imgdir>
     <imgdir name="0">
       <int name="npc" value="1020000"/>
-      <int name="lvmin" value="10"/>
+      <int name="lvmin" value="15"/>
     </imgdir>
   </imgdir>
   <imgdir name="20000">
