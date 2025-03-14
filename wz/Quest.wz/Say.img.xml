@@ -4393,7 +4393,7 @@
     <imgdir name="1">
       <string name="0" value="Wow, you did clear out the Blue Snails and Shrooms! That&apos;s so amazing! Thank you so much! Now I can safely walk back home."/>
       <imgdir name="yes">
-        <string name="0" value="If you&apos;re looking for Amherst, go a little bit northwest. If you&apos;re looking for Southperry, it&apos;s to the southeast of here."/>
+        <string name="0" value="If you&apos;re looking for Amherst, go a little bit east. If you&apos;re looking for Southperry, it&apos;s to the southeast of here."/>
       </imgdir>
       <imgdir name="stop">
         <imgdir name="mob">
@@ -4415,8 +4415,8 @@
     <imgdir name="1">
       <string name="0" value="Ohhh, so you&apos;ve completed all of Mai&apos;s Training. You look much stronger than when I first met you. A little more training, and you should be ready to head over to Victoria Island. Do you want to know how to get there?"/>
       <imgdir name="yes">
-        <string name="0" value="There&apos;s actually only one way to get from Maple Island to Victoria Island. Take the #bSoutheast route at the split road#k, and you&apos;ll reach #bSouthperry#k, where you&apos;ll find #bShanks#k running a ship that heads to Victoria Island. He usually commands 150 mesos per ride, but for a great traveler like you, he&apos;ll probably let you go for free."/>
-        <string name="1" value="Here&apos;s the #brecommendation letter#k for you. If you have Victoria Island in mind, take this letter to Shanks. He&apos;ll let you get on the ride for free. I hope your journey is filled with greatness. I&apos;ll be watching..."/>
+        <string name="0" value="There&apos;s actually only one way to get from Maple Island to Victoria Island. Take the #bSoutheast route at the split road#k, and you&apos;ll reach #bSouthperry#k, where you&apos;ll find #bShanks#k running a ship that heads to Victoria Island. He usually commands 150 mesos per ride."/>
+        <string name="1" value="I hope your journey is filled with greatness. I&apos;ll be watching..."/>
       </imgdir>
       <imgdir name="stop">
         <imgdir name="quest">
