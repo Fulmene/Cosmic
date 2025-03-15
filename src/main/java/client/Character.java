@@ -4932,7 +4932,7 @@ public class Character extends AbstractCharacterObject {
     }
 
     public boolean hasNoviceExpRate() {
-        return YamlConfig.config.server.USE_ENFORCE_NOVICE_EXPRATE && isBeginnerJob() && level < 11;
+        return YamlConfig.config.server.USE_ENFORCE_NOVICE_EXPRATE && MapId.isMapleIsland(this.getMapId()) && isBeginnerJob() && level < 11;
     }
 
     public int getExpRate() {
